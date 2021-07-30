@@ -88,7 +88,7 @@ body {
   font-family: "Big Shoulders Display";
   font-weight: 700;
   font-size: 38px;
-  padding: 34px 0;
+  padding: 38px 0 28px 0;
   color: hsl(0, 0%, 95%);
   text-transform: uppercase;
 }
@@ -111,7 +111,7 @@ body {
   border: 2px solid hsl(0, 0%, 95%);
   margin-top: auto;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 15px;
   font-family: "Lexend Deca";
   font-weight: 400;
 
@@ -140,7 +140,7 @@ body {
   border: 2px solid hsl(0, 0%, 95%);
   margin-top: auto;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 15px;
   font-family: "Lexend Deca";
   font-weight: 400;
 
@@ -170,7 +170,7 @@ body {
   border: 2px solid hsl(0, 0%, 95%);
   margin-top: auto;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 15px;
   font-family: "Lexend Deca";
   font-weight: 400;
 
